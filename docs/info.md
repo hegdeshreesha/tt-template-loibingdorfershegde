@@ -13,8 +13,7 @@ it takes a clk input and puts out 7 segment display outptu
 
 ## How to test
 
-Explain how to use your project
+It can be tested by checking that 7 segment display works 
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Yes., 7 segment display
