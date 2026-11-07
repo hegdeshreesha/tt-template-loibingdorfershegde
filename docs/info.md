@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+it takes a clk input and puts out 7 segment display outptu
 
 ## How to test
 
